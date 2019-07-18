@@ -15,6 +15,4 @@ Software Requirements:
 Pre-requisites:
 
 1. Update the datasource configuration in db_sample_report.rptdesign using BIRT Report Designer.
-2. Execute the test scripts under WebContent/testscript
-
-***************************GOODLUCK*****************************************************
+2. Execute the test scripts under WebContent/testscript.
